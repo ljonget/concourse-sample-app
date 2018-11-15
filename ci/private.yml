@@ -1,0 +1,6 @@
+---
+cf-api: https://api.sys.cls01env02.pivotaledu.io
+cf-user: hr.developer@pivotal.io
+cf-password: password
+cf-org: hr
+cf-space: production

@@ -3,7 +3,7 @@ resources:
 - name: concourse-sample-app
   type: git
   source:
-    uri: https://github.com/amcginlay/concourse-sample-app
+    uri: https://github.com/ljonget/concourse-sample-app
     branch: master
 
 - name: cf-push-resource
